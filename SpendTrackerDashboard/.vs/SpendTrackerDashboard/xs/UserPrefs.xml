@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{C0A18E70-DCB9-46E0-B296-F3DEED9D8E50}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SpendTrackerDashboard PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SpendTrackerDashboard/Program.cs">
+    <Files>
+      <File FileName="SpendTrackerDashboard/Pages/Index.cshtml.cs" Line="1" Column="1" />
+      <File FileName="SpendTrackerDashboard/Pages/Index.cshtml" Line="12" Column="1" />
+      <File FileName="SpendTrackerDashboard/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpendTrackerDashboard" expanded="True">
+            <Node name="SpendTrackerDashboard" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
